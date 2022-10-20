@@ -1,0 +1,86 @@
+DMFCountryName,countryCode,region,IDAStatus,MTDSPublished,yrPublished,DMSPeriod,link,linkAvailable,period,frequency,language,downloadStatus,comments,relevantFileDownloads,totalFileDownloads
+Afghanistan,AFG,,,NO,,,https://mof.gov.af/en/documents,Yes,,,,Complete,Manual inspection shows no debt related documents on site,0,25
+Angola,AGO,,,NO,,,https://www.dbsa.org/EN/About-Us/Projects-2018/Pages/Ministry-of-Finance.aspx,Yes,,,,Problematic,Website given seems to be that of a privae company,0,0
+Armenia,ARM,,,YES,2018,2019-2021,http://www.minfin.am/en/page/reports_and_statistics1/,Yes,,Annually and Quarterly,,Complete,,5,25
+Azerbaijan,AZE,,,YES,2018,2018-2025,http://www.maliyye.gov.az/en/static/12/government-debt,Yes,,,en,Complete,PDFs downloaded but they are corrupt,1,5
+Burundi,BDI,,,NO,,,http://finances.gov.bi/?q=presentation-accueil,Yes,,,fr,Complete,,4,6
+Benin,BEN,,,YES,2017,2017-2021,http://www.caabenin.net/index.php/publications/bulletins-statistiques,Yes,,Quarterly,,Complete,,8,9
+Burkina Faso,BFA,,,NO,2015,2015-2017,https://www.finances.gov.bf/ressources/documents,Yes,,,FRENCH,Complete,Manual inspection shows no debt related documents on site,0,4
+Bangladesh,BGD,,,NO,,,https://mof.gov.bd/,Yes,,,en,Complete,,9,106
+Bosnia and Herzegovina,BIH,,,YES,2018,2018-2020,http://www.fmf.gov.ba/v2/stranica.php?idstranica=161&idmeni=17,Yes,,Quarterly,BOSNIAN,Complete,Need to check docs because of language,0,71
+Bolivia,BOL,,,NO,,,https://www.economiayfinanzas.gob.bo/viceministerio-del-tesoro-y-credito-publico.html,Yes,,,SPANISH,Complete,Downloaded a few documents but an exhaustive search could potentially find more,4,4
+Bhutan,BTN,,,NO,,,https://www.mof.gov.bt/publications/,Yes,,,en,Complete,Manual inspection shows no debt related documents,14,62
+Central African Republic,CAF,,,NO,,,https://www.finances.gouv.cg/en/congo-debt-situation-31-december-2018,Yes,,,,Complete,,0,0
+C√¥te d'Ivoire,CIV,,,NO,,,https://finances.gouv.ci/finances/dette,Yes,,,FRENCH,Partly,Need to be revisited,1,1
+Cameroon,CMR,,,NO,,,http://www.minfi.gov.cm/index.php/en/documents,Yes,,,FRENCH,Complete,Requires filtering to identify relevant docs,0,8
+"Congo, Rep.",COG,,,NO,,,https://www.finances.gouv.cg/en/documentation,Yes,,,en,Complete,,1,15
+Comoros,COM,,,NO,2016?,,https://douane.gov.km/fr/,Yes,,,fr,Complete,,0,12
+Cape Verde,CPV,,,NO,,,https://www.mf.gov.cv/,Yes,,,FRENCH,Complete,No relevant links on website,0,2
+Djibouti,DJI,,,NO,,,http://www.ministere-finances.dj/DETTE%20EXTERIEURE.html,Yes,,,FRENCH,Complete,,0,23
+Dominica,DMA,,,NO,,,http://www.dominica.gov.dm/government-publications,Yes,,,en,Complete,,1,22
+Eritrea,ERI,,,NO,,,,No,,,,Not started,,0,0
+Ethiopia,ETH,,,YES,2019,2016-2020,http://www.mofed.gov.et/web/guest/debt-management-directorates,Yes,,Quarterly,,Complete,,0,14
+"Micronesia, Fed. Sts.",FSM,,,NO,,,http://www.dofa.gov.fm/strategic-economic-reports/,Yes,,,en,Complete,,4,9
+Georgia,GEO,,,NO,,,https://www.mof.ge/en/4419,Yes,,Annually+Monthly,en,Problematic,URL and its variants unreachable,0,0
+Ghana,GHA,,,YES,2017,2017-2020,https://www.mofep.gov.gh/reports/2019-04-01/annual-public-debt-report-2018,Yes,,Annually,,Complete,,3,28
+Guinea,GIN,,,NO,,,https://mef.gov.gn,No,,,fr,Complete,,3,13
+"Gambia, The",GMB,,,YES,2017,2017-2020,http://www.mofea.gm/directorates/loans-and-debt-management,Yes,,Annually,,Complete,,20,40
+Guinea-Bissau,GNB,,,NO,,,,No,,,,Not started,,0,0
+Grenada,GRD,,,YES,2017,2018-2020,https://www.finance.gd/index.php/2014-05-06-18-20-13/debt-management-unit,Yes,,Quarterly,,Complete,,19,28
+Guyana,GUY,,,NO,,,https://finance.gov.gy/publications/reports/,Yes,,,,Complete,,2,34
+Honduras,HND,,,YES,2018,2018-2022,http://www.sefin.gob.hn/informes/,Yes,,Quarterly,,Complete,,0,2
+Haiti,HTI,,,NO,,,http://mef.gouv.ht/,Yes,,,FRENCH,Complete,,2,16
+India,IND,,,YES,2015,2015-2018,https://dea.gov.in/public-debt-management,Yes,,Annually+Quaterly,,Complete,,5,40
+Kenya,KEN,,,YES,2018,2018-2021,http://www.treasury.go.ke/publications/pdmo.html,Yes,,Annually+ Monthly,,Complete,,43,110
+Kyrgyz Republic,KGZ,,,YES,2018,2018-2020,http://www.minfin.gov.kg/ru/novosti/mamlekettik-karyz/,Yes,,Monthly,ru,Complete,,0,13
+Cambodia,KHM,,,YES,2015,2015-2018,https://gdicdm.mef.gov.kh/en/cat/documents-and-publications/bulletins,Yes,,Quarterly,,Complete,,0,6
+Kiribati,KIR,,,NO,,,http://www.mfed.gov.ki/,Yes,,,en,Complete,,18,32
+Kosovo,KVO,,,YES,2018,2019-2021,"https://mf.rks-gov.net/page.aspx?id=2,44",Yes,,Annually+Quaterly,,Complete,,1,27
+Lao PDR,LAO,,,NO,,,https://www.mof.gov.la/index.php/en/publications-and-statistics/,Yes,,,,Complete,,2,11
+Liberia,LBR,,,NO,,,https://www.mfdp.gov.lr,Yes,,Annually,en,Partly,,0,1
+St. Lucia,LCA,,,NO,,,http://www.govt.lc/ministries/finance-and-economic-affairs,Yes,,,en,Complete,,3,6
+Sri Lanka,LKA,,,YES,2017,2017-2020,http://www.treasury.gov.lk/documents/10181/12882/Mid+Year+Fiscal+Position+Report_ENG_June302019.pdf/2e17b29c-4c3d-4615-afe9-4d9431ba36a5,Yes,6/1/19 0:00,,,Complete,,0,1
+Lesotho,LSO,,,YES,2018,2018-2022,http://www.finance.gov.ls/official_documents.php?id=debt_documents,Yes,,Annually,,Complete,,2,3
+Moldova,MDA,,,YES,2018,2019-2021,http://mf.gov.md/en/datoria-sectorului-public/rapoarte/datoria-de-stat,Yes,5/1/19 0:00,Monthly,,Complete,,0,20
+Madagascar,MDG,,,YES,2018,2019-2021,http://www.tresorpublic.mg/?page_id=214&content=temp&type=bsd,Yes,,Quarterly,,Complete,,0,17
+Maldives,MDV,,,YES,2017,2019-2021,Ministry of finance Republic of Maldives - Disbursed Outstanding Debt of PPG Debt Report,Yes,3/1/19 0:00,TBD,,Complete,,0,1
+Marshall Islands,MHL,,,NO,,,http://rmi-mof.com/,Yes,,,en,Complete,,0,15
+Mali,MLI,,,NO,2018,2018-2020,https://www.finances.gouv.ml/,Yes,,,French,Complete,,0,5
+Myanmar,MMR,,,NO,,,https://www.mopf.gov.mm/en,Yes,,,en,Not started,,0,0
+Mongolia,MNG,,,YES,2015,2016-2018,http://mof.gov.mn/,Yes,,,Russian,Complete,,0,18
+Mozambique,MOZ,,,YES,2015,2015-2018,http://www.mpd.gov.mz,Yes,,,,Problematic,,0,0
+Mauritania,MRT,,,NO,,,http://www.finances.gov.mr/,Yes,,,,Problematic,,0,0
+Malawi,MWI,,,NO,,,http://www.finance.gov.mw/,Yes,,,,Complete,,16,16
+Niger,NER,,,NO,,,http://www.finances.gouv.ne/index.php/actualites/publications-du-ministere,Yes,,,fr,Not started,,0,2
+Nigeria,NGA,,,YES,2016,2016-2019,https://www.dmo.gov.ng/debt-profile/total-public-debts,Yes,3/1/19 0:00,Quarterly,,Complete,,20,20
+Nicaragua,NIC,,,YES,2016,2016-2019,http://www.hacienda.gob.ni/documentos/credito-publico/gestion-de-endeudamiento-publico-y-asauncion-de-deuda-interna/estrategia-y-politicas-de-endeudamiento-publico,Yes,,,spanish,Not started,,0,0
+Nepal,NPL,,,NO,,,https://mof.gov.np/en/publications/,Yes,1/1/18 0:00,TBD,en,Not started,,0,0
+Pakistan,PAK,,,YES,2015,2016-2019,Ministry of finance Pakistan (Debt policy coordiantion office) - Debt policy statement  2018-19,Yes,,Annually,,Complete,,0,1
+Papua New Guinea,PNG,,,YES,2018,2019-2022,https://www.treasury.gov.pg/html/public_debt/public_debt.html,Yes,2018,,,Complete,,3,10
+Rwanda,RWA,,,YES,2018,2018-2021,Ministry of finance and economic planning - Debt Stock Report ,Yes,12/1/18 0:00,TBD,,Complete,,2,2
+Sudan,SDN,,,NO,,,https://socialprotection.org/connect/stakeholders/sudan-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-ministry-finance-and-economic-planning,Yes,,,,Problematic,,0,0
+Senegal,SEN,,,YES,2017,2018-2020,http://www.finances.gouv.sn/,Yes,,,,Problematic,,0,0
+Solomon Islands,SLB,,,YES,2016,2016-2020,http://www.mof.gov.sb/ReportsNew/Publicationsdebthistory.aspx,Yes,2/1/17 0:00,,en,Complete,,19,27
+Sierra Leone,SLE,,,NO,,,https://mof.gov.sl/economic-publication/,Yes,,,en,Complete,,48,68
+Somalia,SOM,,,NO,,,http://www.mof.gov.so/publication/,Yes,,,,Complete,,3,3
+South Sudan,SSD,,,NO,,,http://www.mofep-grss.org/documents/,Yes,,,en,Complete,Manual inspection shows no debt related documents,14,22
+S√£o Tom√© and Principe,STP,,,NO,,,,No,,,,Not started,,0,0
+Chad,TCD,,,NO,,,https://finances.gouv.td/,Yes,,,fr,Complete,,30,41
+Togo,TGO,,,NO,,,https://finances.gouv.tg/,Yes,,,,Complete,,5,18
+Tajikistan,TJK,,,YES,2014,2015-2017,Ministry of finance Republic of Tajikistan - Structure of external debt report ,Yes,12/1/18 0:00,Annaully,,Complete,Needs to review the documents usign translator,3,34
+Timor-Leste,TMP,,,NO,,,https://www.mof.gov.tl/category/documents-and-forms/?lang=en,Yes,,,,Complete,Most docs arent debt related ,39,504
+Tonga,TON,,,YES,2016,2016-2018,http://www.finance.gov.to/index.php/publications,Yes,3/1/16 0:00,Quarterly,en,Complete,,20,35
+Tuvalu,TUV,,,NO,,,,No,,,,Not started,,0,0
+Tanzania,TZA,,,YES,2017,2018-2021,http://www.mof.go.tz/docs/,Yes,,,,Complete,,8,81
+Uganda,UGA,,,YES,2016,2018-2021,https://www.finance.go.ug/Reports,Yes,12/1/17 0:00,,en,Complete,,1,5
+Uzbekistan,UZB,,,NO,,,Ministry of finance of the Republic of Uzbekistan - Public external debt table ,Yes,1/19/19 0:00,,,Complete,,1,1
+St. Vincent and the Grenadines,VCT,,,YES,2018,2018-2020,http://finance.gov.vc/finance/index.php/publications-and-reports,Yes,,,en,Complete,"Can be expanded, downloaded only one reprt  as provided link was that of a PDF",0,1
+Vietnam,VNM,,,NO,,,https://www.mof.gov.vn/webcenter/portal/mof/home?_adf.ctrl-state=13fp7izytb_4&_afrLoop=84837951534590752#!%40%40%3F_afrLoop%3D84837951534590752%26_adf.ctrl-state%3Dy3q9y6s8k_4,Yes,,,en,Not started,,0,2
+Vanuatu,VUT,,,YES,2015,2015-2017,Ministry of finance Vanuatu - Treasury ,Yes,7/6/05 0:00,,,Complete,,0,1
+Samoa,WSM,,,YES,2016,2016-2020,Ministry of finance Government of Samoa - Quarterly Debt Bulletin,Yes,3/1/19 0:00,,,Complete,,7,28
+"Yemen, Rep.",YEM,,,NO,,,,No,,,,Not started,,0,0
+"Congo, Dem. Rep.",ZAR,,,NO,,,https://www.finances.gouv.cg/en/documentation?keys=&term_node_tid_depth=112&field_document_date_value%5Bmin%5D%5Bdate%5D=&field_document_date_value%5Bmax%5D%5Bdate%5D=,Yes,,,en,Complete,,2,46
+Zambia,ZMB,,,YES,2017,2017-2019,http://www.mof.gov.zm/public-debt-reports/,Yes,12/1/16 0:00,,,Complete,,10,10
+Zimbabwe,ZWE,,,NO,,,http://www.zimtreasury.gov.zw/index.php?option=com_phocadownload&view=categories&Itemid=759,Yes,,,en,Complete,Manual inspection shows no debt related documents,75,96
+West Bank and Gaza,,,,NO,,,,No,,,,Not started,,0,0
+,,,,,,,,,,,,,,501,1984
